@@ -31,5 +31,5 @@ spec:
       ports:
         - exposedPort: 8887
       memoryLimit: 2048M	
-      cpuLimit: 800m	
-      cpuRequest: 300m
+      cpuLimit: 2048m	
+      cpuRequest: 1024m
